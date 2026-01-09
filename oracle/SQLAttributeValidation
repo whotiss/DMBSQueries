@@ -1,4 +1,4 @@
- -- Verify column structure and sample records
+ // Verify column structure and sample records
       SELECT customer_id, name, email
       FROM customers;
 
